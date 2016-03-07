@@ -1,0 +1,18 @@
+*{
+	margin:0;
+	padding: 0;
+}
+#menu{
+	width: 50px;
+	height: 100px;
+	border: 1px solid blue;
+	background: red;
+	text-align: center;
+	line-height: 30px;
+	position: absolute;
+	display: none;
+	z-index: 4;
+}
+#menu li{
+	list-style: none;
+}
